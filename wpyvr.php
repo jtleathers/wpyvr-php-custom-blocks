@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WPYVR Demo Plugin
- * Plugin URI:        https://github.com/jtleathers/
+ * Plugin URI:        https://github.com/jtleathers/wpyvr-php-custom-blocks
  * Description:       A demo of creating custom blocks with auto_register support.
  * Version:           1.0.0
  * Requires at least: 7.0
